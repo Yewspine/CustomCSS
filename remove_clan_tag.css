@@ -1,0 +1,6 @@
+[class*=clanTag]>span, 
+[class*=user-profile-popout]>div>div>div>div>span,
+[class*=user-profile-modal]>div>div>div>div>span 
+{
+  display: none;
+}
