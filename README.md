@@ -1,2 +1,2 @@
 # CustomCSS
-All my css snipets are here
+All my css snipets related to Discord are here
