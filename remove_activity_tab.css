@@ -1,0 +1,9 @@
+[aria-label="Activity"]
+{
+  display: none;
+}
+
+[class*=tabBar_]
+{
+  gap: 0px;
+}
