@@ -1,0 +1,9 @@
+div[class*=user-profile-popout]>div[class*=inner_]>header>svg>foreignObject>div[class*=banner__],
+div[class*=user-profile-modal]>div[class*=inner_]>header>svg>foreignObject>div[class*=banner__]
+{
+  background-image: none !important;
+}
+
+div[class*=user-profile-modal]>div[class*=inner_]>div[class*=body__]>div[class*=container_]>div[class*=scroller_] section {
+  display: none;
+}
