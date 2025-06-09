@@ -1,0 +1,4 @@
+div[class*=user-profile-modal]>div[class*=inner_]>div[class*=body__]>div[class*=container_]>div[class*=scroller_] section 
+{
+  display: none;
+}
