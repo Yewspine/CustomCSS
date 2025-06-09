@@ -1,0 +1,5 @@
+[class*=user-profile-popout]>div>div>div>div>div[aria-label="User Badges"],
+[class*=user-profile-modal]>div>div>div>div>div[aria-label="User Badges"] 
+{
+  display: none;
+}
